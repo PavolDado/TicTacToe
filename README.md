@@ -8,3 +8,5 @@ Quit game: write Q or q in coordinate.
 Coordinates must be a numbers in range 0 and 2. 
 
 Author: Pavol Dado
+
+Language: Python
